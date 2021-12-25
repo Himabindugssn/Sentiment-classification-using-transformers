@@ -19,6 +19,6 @@ Pytorch
 ![image](https://user-images.githubusercontent.com/47247696/147391497-cf842077-64d4-476f-bbca-580eaaa1b917.png)
 
 ## References:
-https://huggingface.co/docs/transformers/model_doc/bert
-https://huggingface.co/docs/transformers/index
-https://huggingface.co/docs/transformers/custom_datasets
+- https://huggingface.co/docs/transformers/model_doc/bert
+- https://huggingface.co/docs/transformers/index
+- https://huggingface.co/docs/transformers/custom_datasets
